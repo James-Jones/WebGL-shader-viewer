@@ -1,0 +1,7 @@
+
+Drag-and-drop shaders and geomtery into the webpage. The geometry should be supplied in a JSON
+format such as that produced by my 'fromAssimp.py' script (available from my Helpful-scripts github
+repository).
+
+esShapes.js, esUtil.js and esTransform.js come from the OpenGL(R) ES 2.0 Programming Guide book.
+
